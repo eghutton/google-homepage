@@ -9,7 +9,7 @@ html {
     position: absolute;
 }
 
-.top-header {
+#top-header {
     list-style-type: none;
     margin: 0;
     padding: 0;
